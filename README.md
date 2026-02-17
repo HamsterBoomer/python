@@ -1,7 +1,8 @@
-# python
+# Python
 Remove Image Background using Python
 
-# pip install rembg pillow
+# Python code
+pip install rembg pillow
 
 from rembg import remove
 from PIL import Image
